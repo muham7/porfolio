@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+.c h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    color: aliceblue;
+}
+.c a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-left: 20px;
+}
+.d{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.d img{
+    border-radius: 20px;
+}
+.d h1{
+margin-left: 20px;
+color: aliceblue;
+}  
+.d p{
+    margin-left: 20px;
+    color: aliceblue;
+    font-size: 18px;
+}
+.d audio{
+    margin-top: 20px;
+}
+.bb {
+    display: flex;
+    align-items: center;
+}
+.m{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.m img{
+    border-radius: 20px;
+}
+.m h1{
+    color: aliceblue;
+
+}
+.m p{
+    color: aliceblue;
+}
+.m audio{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ff{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.ff img{
+    width: 450px;
+    border-radius: 20px;
+}
+.ff h1{
+    color: aliceblue;
+
+}
+.ff p{
+    color: aliceblue;
+}
+.ff audio{
+    margin-top: 20px;
+}
+
+.c a{
+    color: aliceblue;
+}
+.c i{
+    color: aliceblue;
+}
+.ff img{
+    width: 250px;
+}
